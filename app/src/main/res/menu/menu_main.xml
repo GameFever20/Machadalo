@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="machadalo.priyank.craftystudio.machadalo.MainActivity" >
+
+
+    <item android:title="@string/order">
+        <menu>
+            <item
+                android:id="@+id/action_orderBy_hindiMarks"
+                android:title="@string/hindi_marks" />
+            <item
+                android:id="@+id/action_orderBy_englishMarks"
+                android:title="@string/engish_marks" />
+            <item
+                android:id="@+id/action_orderBy_gender"
+                android:title="@string/gender" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="Top Performer">
+        <menu>
+            <item
+                android:id="@+id/action_topPerformer_hindiMarks"
+                android:title="@string/hindi_marks" />
+            <item
+                android:id="@+id/action_topPerformer_englishMarks"
+                android:title="@string/engish_marks" />
+
+        </menu>
+    </item>
+
+    <item android:id="@+id/action_topPerformer_averageMarks"
+        android:title="@string/top_average_marks"
+        />
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Machadalo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hindi_marks">Hindi Marks</string>
+    <string name="engish_marks">Engish Marks</string>
+    <string name="gender">Gender</string>
+    <string name="order">Order</string>
+    <string name="top_average_marks">Top Average Marks</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
